@@ -17,7 +17,7 @@ Now featuring WASM-powered<br>
 <script src="//webpdf.pro/<pdf>" type=module></script>
 
 <pdf-file    id=f src=//pdf.ist/form.pdf></pdf-file>
-<pdf-page    of=f  no=1 svg></pdf-page>
+<pdf-page    of=f svg></pdf-page>
 
 <button onclick=f.save()>Save</button>
 ```
