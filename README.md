@@ -14,7 +14,7 @@ Now featuring WASM-powered<br>
 * [codepen 👇🏻](https://codepen.io/webpdf/pen/jOwwYYM?editors=1000)
 
 ```html
-<script src="//webpdf.pro/<pdf>" type=module></script>
+<script src="//webpdf.co/<>" type=module></script>
 
 <pdf-file    id=f src=//pdf.ist/form.pdf></pdf-file>
 <pdf-page    of=f svg></pdf-page>
