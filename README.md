@@ -35,7 +35,7 @@ Now featuring WebAssembly-powered [high-fidelity](https://github.com/pdf-ist/Web
 
 ---
 
-# 💴 Sponsoring
+# Sponsoring 💴
 
 This project proudly sponsors
 
