@@ -1,3 +1,16 @@
+| [`<pdf-file>`<br>`<pdf-page>`](//WebPDF.pro) |
+| :-: |
+| [<img src="https://webpdf.pro/.svg" width="64">](//WebPDF.pro) |
+| [Web**PDF**.*pro*](//WebPDF.pro) |
+
+Professional PDF web components<br>
+in the form of HTML custom elements.
+
+Since Web**PDF**.*pro* is not fully open-source, this repository serves as a place for bug reports, feature requests, and general discussion.<br>
+<sup>This follows [Photopea](https://github.com/photopea/photopea).</sup>
+
+---
+
 # [Web**PDF**.*pro*](//WebPDF.pro)
 
 ## [World's Best PDF Web Components](https://WebPDF.pro)
