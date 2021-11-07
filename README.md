@@ -1,32 +1,29 @@
-| [`<pdf-file>`<br>`<pdf-page>`][🌐] |
-| :-: |
-| [<img src="https://webpdf.pro/.svg" width="64">][🌐] |
-| [Web**PDF**.*pro*][🌐] |
-
-Professional PDF web components<br>
-in the form of HTML custom elements.
-
----
+| [`<pdf-file>`<br>`<pdf-page>`][📖] | Professional PDF web components<br>in the form of HTML custom elements. |
+| :-: | :- |
+| [<img src="https://webpdf.pro/.svg" width="64">][🌐] | <a href="https://codepen.io/webpdf/pen/jOwwYYM?editors=1000">▶️🔗 playground 👇🏻<pre style=font-size:.6rem>&lt;script src="//webpdf.co/<>" type=module&gt;&lt;/script&gt;<br><br>&lt;pdf-file    id=f src=//pdf.ist/form.pdf&gt;&lt;/pdf-file&gt;<br>&lt;pdf-page    of=f svg&gt;&lt;/pdf-page&gt;<br><br>&lt;button onclick=f.save()&gt;Save&lt;/button&gt;</pre></a> |
+| [Web**PDF**.*pro*][🌐] | made with ❤️ by [**PDF**.*ist*][🧑🏻‍💻] |
 
 Since Web**PDF**.*pro* is not open-source,<br>this repository serves as a place for
-* bug reports,
-* feature requests
-* general discussion.<br>
+* 🐛 [bug reports](/issues),
+* 🙋🏻 [feature requests](/discussions/categories/ideas) &
+* 💬 [general discussion](/discussions/categories/general).
 
 <sup>This mirrors [Photopea](https://github.com/photopea/photopea)'s use of GitHub.</sup>
 
 ### Where You Can Find Us
 * 📧 [support@Web**PDF**.*pro*][📧]
-* 📘 [facebook.com/webpdf.pro][📘]
-* 🐣 [twitter.com/WebPDFpro][🐣]
+* 📘 [facebook.com/Web**PDF**.*pro*][📘]
+* 🐣 [twitter.com/Web**PDF***pro*][🐣]
 * 🌐 [Web**PDF**.*pro*][🌐]
 * 📖 [Web**PDF**.*pro*/#📖][📖]<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(docs, examples, API)</sup>
 
+[🧑🏻‍💻]: https://PDF.ist
 [📧]: mailto:support@webpdf.pro
-[📘]: https://facebook.com/webpdf.pro
+[📘]: https://facebook.com/WebPDF.pro
 [🐣]: https://twitter.com/WebPDFpro
 [🌐]: https://WebPDF.pro
 [📖]: https://WebPDF.pro#📖
+[🧊]: https://codepen.io/webpdf/pen/jOwwYYM?editors=1000
 
 ---
 
@@ -34,31 +31,7 @@ Since Web**PDF**.*pro* is not open-source,<br>this repository serves as a place 
 
 ## [World's Best PDF Web Components][🌐]
 
-Now featuring WASM-powered [high-fidelity](https://github.com/pdf-ist/WebPDF/discussions) `♊ PDFium` rendering.
-
-
-### Usage
-
-* [codepen 👇🏻](https://codepen.io/webpdf/pen/jOwwYYM?editors=1000)
-
-```html
-<script src="//webpdf.co/<>" type=module></script>
-
-<pdf-file    id=f src=//pdf.ist/form.pdf></pdf-file>
-<pdf-page    of=f svg></pdf-page>
-
-<button onclick=f.save()>Save</button>
-```
-
-| [<img width=256 src=https://user-images.githubusercontent.com/27027/121008307-d1fa5880-c7cd-11eb-99fa-f01a1f4da73c.png>](https://codepen.io/webpdf/pen/jOwwYYM?editors=1000) |
-| - |
-| [codepen 👆🏻](https://codepen.io/webpdf/pen/jOwwYYM?editors=1000) |
-
-
-### Documentation
-
-* https://WebPDF.pro/#📖
-
+Now featuring WebAssembly-powered [high-fidelity](https://github.com/pdf-ist/WebPDF/discussions) `♊ PDFium` rendering.
 
 ---
 
