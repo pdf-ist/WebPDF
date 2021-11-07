@@ -27,7 +27,7 @@ Since Web**PDF**.*pro* is not open-source,<br>this repository serves as a place 
 
 ---
 
-# [Web**PDF**.*pro*][🌐]
+# [Web**PDF**.*pro*][🌐] <br> [Professional PDF web components<br>in the form of HTML custom elements][🌐]
 
 ## [World's Best PDF Web Components][🌐]
 
