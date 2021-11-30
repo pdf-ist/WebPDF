@@ -11,19 +11,22 @@ Since Web**PDF**.*pro* is not open-source,<br>this repository serves as a place 
 <sup>This mirrors [Photopea](https://github.com/photopea/photopea)'s use of GitHub.</sup>
 
 ### Where You Can Find Us
-* 📧 [support@Web**PDF**.*pro*][📧]
-* 📘 [facebook.com/Web**PDF**.*pro*][📘]
+* 📰 [//blog.**PDF**.*ist*][📰]<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(latest news, insights)</sup>
+* ▶️ [//try.Web**PDF**.*pro*][▶️]<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(playground, examples)</sup>
+* 🌐 [//Web**PDF**.*pro*][🌐]<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(homepage, features)</sup>
+* 📖 [//Web**PDF**.*pro*/#📖][📖]<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(documentation)</sup>
 * 🐣 [twitter.com/Web**PDF***pro*][🐣]
-* 🌐 [Web**PDF**.*pro*][🌐]
-* 📖 [Web**PDF**.*pro*/#📖][📖]<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<sup>(docs, examples, API)</sup>
+* 📘 [facebook.com/Web**PDF**.*pro*][📘]
+* 📧 [support@Web**PDF**.*pro*][📧]
 
 [🧑🏻‍💻]: https://PDF.ist
+[📰]: https://blog.PDF.ist
 [📧]: mailto:support@webpdf.pro
 [📘]: https://facebook.com/WebPDF.pro
 [🐣]: https://twitter.com/WebPDFpro
 [🌐]: https://WebPDF.pro
 [📖]: https://WebPDF.pro#📖
-[🧊]: https://codepen.io/webpdf/pen/jOwwYYM?editors=1000
+[▶️]: https://try.webpdf.pro/#html=%3Cscript+src%3D%22//webpdf.co/%3C%3E%22+type%3Dmodule%3E%3C/script%3E%0A%0A%3Cbutton+onclick%3Df.save%28%29%3ESave%3C/button%3E%3Cbr%3E%0A%3Cpdf-file++++id%3Df+src%3D//pdf.ist/form.pdf%3E%3C/pdf-file%3E%0A%3Cpdf-page++++of%3Df+svg+scale%3D.4+controls%3E%3C/pdf-page%3E&e=0"
 
 ---
 
